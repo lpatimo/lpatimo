@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Leonardo Patimo's Webpage</title>
+  <meta name="keywords" content="Patimo, Mathematics, Freiburg" />
+  <link rel="stylesheet" type="text/css" href="style.css" title="style" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <div id="logopic">
+            	<a href="https://www.uni-freiburg.de/">
+            	  <img float="right" align="right" src="unilogo.png" height="100px"  alt="" />
+            	</a>
+          </div>
+           <div id="logo_text">
+          <h1><a href="index.html">Lecture Course: Lie Groups</a></h1>
+        </div>
+      </div>
+   
+     <div id="menubar">
+        <ul id="menu">
+          <li><a href="index.html">Back to Home</a></li>
+        </ul>
+     </div>
+  </div>
+    <div id="site_content">
+      <div id="content">
+  <h3>Sommersemester 2020</h3>
+    
+  Dozent: <a href="index.html">Dr. Leonardo Patimo</a>
+    <h2>Wednesday 12-14 in SR 125 , Ernst-Zermelo-Stra&szlig;e 1</h2>
+</div>
+</div>
+</div>
+</BODY>
+				
+				
+				
